@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blogpost"
-date:    2014-01-01 21:11:49
+date:   2014-01-01 20:55:32
 categories: blog update
 ---
 
@@ -13,4 +13,9 @@ Nur *so* ein **Test**.
 - zwei
 - drei
 
-siehe [heise.de](http://www.heise.de)
+siehe [heise.de][heise]
+
+[heise]: http://www.heise.de
+
+
+
